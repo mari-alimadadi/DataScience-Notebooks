@@ -18,7 +18,7 @@ This project explores the factors that contribute to student success using data 
 
 ## 📁 File
 
-- [what-makes-students-succeed-python.ipynb](what-makes-students-succeed-python.ipynb) – Main notebook with all analysis
+- [what-makes-students-succeed-python.ipynb](./what-makes-students-succeed/what-makes-students-succeed-python.ipynb) – Main notebook with all analysis
 
 ## 📊 Dataset
 
