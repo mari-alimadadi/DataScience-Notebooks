@@ -22,7 +22,9 @@ This project explores the factors that contribute to student success using data 
 
 ## 📊 Dataset
 
-Dataset source: [Kaggle](https://www.kaggle.com/)
+
+Dataset source: [Students Performance in Exams – Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
 
 ---
 
