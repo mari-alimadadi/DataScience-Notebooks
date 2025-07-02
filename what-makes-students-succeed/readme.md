@@ -17,8 +17,7 @@ This project explores the factors that contribute to student success using data 
 - matplotlib  
 
 ## 📁 File
-
-- [what-makes-students-succeed-python.ipynb](./what-makes-students-succeed/what-makes-students-succeed-python.ipynb) – Main notebook with all analysis
+https://github.com/mari-alimadadi/DataScience-Notebooks/tree/main/what-makes-students-succeed
 
 ## 📊 Dataset
 
